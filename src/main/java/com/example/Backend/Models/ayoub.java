@@ -1,2 +1,4 @@
-package com.example.Backend.Models;public class ayoub {
+package com.example.Backend.Models;
+
+public class ayoub {
 }
